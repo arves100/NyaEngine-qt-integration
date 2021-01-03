@@ -1,6 +1,7 @@
 #include "QNyaEngine.h"
 
 #include <render/render.h>
+#include <render/render_api.h>
 #include <system/system.h>
 #include <system/shaders_cache_provider.h>
 
